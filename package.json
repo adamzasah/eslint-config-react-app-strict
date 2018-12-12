@@ -1,6 +1,6 @@
 {
     "name": "eslint-config-react-app-strict",
-    "version": "1.0.1",
+    "version": "1.0.2",
     "description": "Strict ESLint config that extends official React App config",
     "repository": "https://github.com/adamzasah/eslint-config-react-app-strict",
     "keywords": [

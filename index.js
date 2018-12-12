@@ -75,6 +75,14 @@ module.exports = {
         "react/jsx-boolean-value": [
             "warn",
             "always"
+        ],
+        "padding-line-between-statements": [
+            "warn",
+            {
+                "blankLine": "always",
+                "prev": "*",
+                "next": "return"
+            }
         ]
     }
 };
