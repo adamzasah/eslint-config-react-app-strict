@@ -1,3 +1,8 @@
+<h1>DEPRECATED</h1>
+
+Use [official ESLint config](https://www.npmjs.com/package/eslint-config-react-app) directly with explicit extending instead.
+
+---
 ## Strict React App ESLint configuration
 
 This configuration extends existing official ESLint configuration
